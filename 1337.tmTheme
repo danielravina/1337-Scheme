@@ -32,18 +32,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6d6d6d</string>
+				<string>#AEAEAE</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
-			<string>string</string>
+			<string>string, meta.verbatim</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fbe3bf</string>
+				<string>#61CE3C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -439,7 +439,7 @@
 			<key>name</key>
 			<string>Punctuation</string>
 			<key>scope</key>
-			<string>punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array</string>
+			<string>punctuation.definition.variable, punctuation.definition.parameters, punctuation.definition.array</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
