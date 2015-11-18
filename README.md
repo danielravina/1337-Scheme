@@ -2,6 +2,7 @@
 =====================
 
 1337 is a color-scheme for dark Sublime Text
+Works great with the Spaceblack theme
 
 ##Screenshots:##
 
